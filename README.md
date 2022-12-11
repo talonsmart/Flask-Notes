@@ -1,5 +1,10 @@
 # Flask Notes 
 
+<img src="https://forthebadge.com/images/badges/made-with-vue.svg" alt="badge" />
+<img src="https://forthebadge.com/images/badges/made-with-typescript.svg" alt="badge" />
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="badge" />
+
+https://forthebadge.com/images/badges/made-with-vue.svg
 <p align="center">
   <!-- Font-Awesome book-open -->
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="200px">

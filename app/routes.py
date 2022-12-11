@@ -412,6 +412,7 @@ def export():
   zf = zipfile.ZipFile(zip_location, mode='w')
   os.chmod(zip_location, 0o755)
   notes = user.notes
+
   for note in notes:
     ret_note = note.serialize
     zf.writestr(ret_note['title'] + '.md', ret_note['data'], zipfile.ZIP_DEFLATED)
